@@ -1,2 +1,2 @@
 # jenkinsdemo
-Jenkins demo project
+Jenkins demo project for learning jenkins
